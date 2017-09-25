@@ -20,11 +20,11 @@ print(b)
 2、最好不要使用下划线加大写字母的标示符，因为Lua的保留字也是这样的
 3、Lua不允许使用特殊字符如@,$,和%来定义标示符。
 4、Lua区分大小写
-]]
+-- ]]
 
 --[[
 保留关键字：
 and、break、do、else、elseif、end、false、for、
 function、if、in、local、nil、not、or、repeat、
 return、then、true、until、while
-]]
+-- ]]
